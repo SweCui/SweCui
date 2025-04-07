@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @SweCui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋 This is SweCui
 
-<!---
-SweCui/SweCui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I am an undergraduate student majoring in Communication Engineering at 
+- 🔭 I’m currently working for VANGUARD, RoboMaster team of SCNU
+- 🦾 I can program in C++, Python and Java
+- 🌱 I’m currently learning SLAM and RL
+- 📫 How to reach me: Email: 467008480@qq.com QQ: 467008480
+
