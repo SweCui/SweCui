@@ -21,3 +21,4 @@
 
 - 📫 How to reach me: Email: wqer8858@gmail.com
 <!--  467008480@qq.com QQ: 467008480 -->
+Finally is my[notion](https://swecui.notion.site/SweCui-s-124c532cfc7b80a88206ec99ea434755?pvs=4)
